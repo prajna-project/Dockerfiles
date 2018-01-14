@@ -1,0 +1,2 @@
+## Prajna related dockerfiles
+* elasticsearch
